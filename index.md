@@ -1,4 +1,5 @@
-## Welcome to Derek's Site!
+title:Welcome to Derek's Site!
+description:Feel free to bookmark this for future updates!
 
 You can use the [editor on GitHub](https://github.com/dekdekdek/dereksite.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
