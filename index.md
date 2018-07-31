@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Derek's Site!
 
 You can use the [editor on GitHub](https://github.com/dekdekdek/dereksite.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,6 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
+This  is a example of a good sentence.
+
 ## Header 2
 ### Header 3
 
